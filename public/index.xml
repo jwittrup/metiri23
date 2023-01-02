@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metiri Consult</title>
+    <link>/</link>
+    <description>Recent content on Metiri Consult</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Nov 2019 20:23:59 +0530</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Efficient allocation of resources</title>
+      <link>/portfolio/work2/</link>
+      <pubDate>Tue, 05 Nov 2019 19:41:01 +0530</pubDate>
+      
+      <guid>/portfolio/work2/</guid>
+      <description>&lt;p&gt;Allocation of resources (staff and money) is essential not only to the efficiency but also to the fairness of public sector services.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Measurement of performance</title>
+      <link>/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/portfolio/work3/</guid>
+      <description>&lt;p&gt;What gets measured gets done. Or does it?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flawless Consulting</title>
+      <link>/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/portfolio/work4/</guid>
+      <description>&lt;p&gt;Consulting is about objectively analyzing an organzation and implementing lasting change. In the best cases, the consultant teaches a client to solve future problems independently through a deeper understanding of the organization’s work and managerial roles&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking</title>
+      <link>/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>/portfolio/work5/</guid>
+      <description>&lt;p&gt;Benchmarking is a managerial tool that improves performance by identifying and applying best documented practices. Modern benchmarking builds on comprehensive analysis of multiple-input, multiple-output relations estimated from actual practices.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Better Decisions Through Data Science</title>
+      <link>/portfolio/work6/</link>
+      <pubDate>Tue, 05 Nov 2019 19:56:17 +0530</pubDate>
+      
+      <guid>/portfolio/work6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justice sector</title>
+      <link>/portfolio/work7/</link>
+      <pubDate>Tue, 05 Nov 2019 19:57:40 +0530</pubDate>
+      
+      <guid>/portfolio/work7/</guid>
+      <description>&lt;p&gt;Well-functioning judicial systems are the backbone of prospering economies. There is substantial theoretical and empirical support for the claim that court performance has a crucial overall impact on society.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Educational sector</title>
+      <link>/portfolio/work8/</link>
+      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      
+      <guid>/portfolio/work8/</guid>
+      <description>&lt;p&gt;Improving student&amp;rsquo;s skills has the potential to bring immense value to societies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Local governments</title>
+      <link>/portfolio/work9/</link>
+      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      
+      <guid>/portfolio/work9/</guid>
+      <description>&lt;p&gt;In many countries, local governments provide an increasing share of the welfare services citizens receive. For this reason, the quality and the efficiency of local government services is very important.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Predictive Analytics</title>
+      <link>/portfolio/work10/</link>
+      <pubDate>Tue, 05 Nov 2019 20:22:08 +0530</pubDate>
+      
+      <guid>/portfolio/work10/</guid>
+      <description>&lt;p&gt;Make better decisions by utilizing your big data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Interactive Data visualization</title>
+      <link>/portfolio/work11/</link>
+      <pubDate>Tue, 05 Nov 2019 20:23:59 +0530</pubDate>
+      
+      <guid>/portfolio/work11/</guid>
+      <description>&lt;p&gt;Visualize your data to increase impact and understanding.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data quality</title>
+      <link>/portfolio/work1/</link>
+      <pubDate>Tue, 05 Nov 2019 18:25:22 +0530</pubDate>
+      
+      <guid>/portfolio/work1/</guid>
+      <description>&lt;p&gt;Data is everything! Poor data quality can have a very negative impcact on your organization.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>
